@@ -12,6 +12,7 @@ This is simple HTML Markdown Convertor Using ReactJs
 To run the application, just clone the code and do the following commands
 
 npm install
+
 npm run start
 
 ### Test Cases
